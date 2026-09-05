@@ -1,0 +1,48 @@
+tests/modbus-test.lua
+  s_810db81bc78cf8::t_5459b4445320d9 1-865
+modbus/rtu.lua
+  s_810db81bc78cf8::t_1347c7bb251302 36,271-274,323
+  s_810db81bc78cf8::t_76f9f7ce3b50eb 1-35,37-270,275-322,324-756
+modbus/proto.lua
+  s_810db81bc78cf8::t_b56e74e4a273a4 1-423
+tests/modbus-rtu-test.py
+  s_810db81bc78cf8::t_b1cdac3dbbeb19 1-158
+README.md
+  s_810db81bc78cf8::t_c6d69e527fca1a 133-136
+socket.lua
+  s_810db81bc78cf8::t_14edc175593af6 210,428-433,437,467,685-691
+examples/modbus/rtu.lua
+  s_810db81bc78cf8::t_a22b07b7f34562 1-60
+tests/time-test.lua
+  s_810db81bc78cf8::t_70b462bbdcbfdd 16-19
+file.lua
+  s_810db81bc78cf8::t_c424dd37be34b5 218-224
+README_ZH.md
+  s_810db81bc78cf8::t_a22b07b7f34562 136-138
+tests/modbus-rtu-helper.lua
+  s_810db81bc78cf8::t_f3de80df5178b6 1-63
+modbus.lua
+  s_810db81bc78cf8::t_a22b07b7f34562 1-98
+time.c
+  s_810db81bc78cf8::t_7076ac96020307 38-59,99
+termios.c
+  s_810db81bc78cf8::t_bb7e6a5717871f 23-25,439-442
+modbus/tcp.lua
+  s_810db81bc78cf8::t_f6d41df01971f7 1-464
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "539a14b89669044d2aef936e4439d4a3c891ece8",
+  "prompts": {},
+  "sessions": {
+    "s_810db81bc78cf8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06fbb-a9ac-7751-89fb-b656a475bae0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
